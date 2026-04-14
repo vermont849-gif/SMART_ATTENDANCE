@@ -1,6 +1,8 @@
-# 📊 SMART ATTENDANCE System
+# [📊 SMART ATTENDANCE System](https://github.com/vermont849-gif/SMART_ATTENDANCE)
 
 A student attendance management system built with **PHP**, **HTML**, and **CSS**.
+
+🔗 **Live Repository:** https://github.com/vermont849-gif/SMART_ATTENDANCE
 
 ---
 
@@ -31,5 +33,3 @@ A student attendance management system built with **PHP**, **HTML**, and **CSS**
 - Session checks to protect pages
 - Form validation
 - Organizing PHP code across multiple files
-
-
